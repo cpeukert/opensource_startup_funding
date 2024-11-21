@@ -1,5 +1,4 @@
-# Beefing IT Up for Your Investor?  
-**Engagement with Open Source Communities, Innovation, and Startup Funding**  
+# Beefing IT up for your Investor? Engagement with Open Source Communities, Innovation and Startup Funding: Evidence from GitHub
 ### Authors: Annamaria Conti, Christian Peukert, Maria P. Roche  
 ### Forthcoming in *Organization Science*
 
